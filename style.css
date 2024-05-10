@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.introducao{
+    justify-content: space-around;
+    display: list-item;
+    align-items: center;
+    padding: 24px 0;
+}
+.imagem-um{
+    width: 20%;
+    height: 20%;
+}
